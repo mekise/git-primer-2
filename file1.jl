@@ -1,1 +1,1 @@
-Add a new feature
+This feature is better
